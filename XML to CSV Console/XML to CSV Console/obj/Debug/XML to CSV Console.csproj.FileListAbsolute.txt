@@ -1,0 +1,7 @@
+C:\Users\Gebruiker\source\repos\XML to CSV Console\XML to CSV Console\bin\Debug\XML to CSV Console.exe.config
+C:\Users\Gebruiker\source\repos\XML to CSV Console\XML to CSV Console\bin\Debug\XML to CSV Console.exe
+C:\Users\Gebruiker\source\repos\XML to CSV Console\XML to CSV Console\bin\Debug\XML to CSV Console.pdb
+C:\Users\Gebruiker\source\repos\XML to CSV Console\XML to CSV Console\obj\Debug\XML to CSV Console.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\XML to CSV Console\XML to CSV Console\obj\Debug\XML to CSV Console.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\XML to CSV Console\XML to CSV Console\obj\Debug\XML to CSV Console.exe
+C:\Users\Gebruiker\source\repos\XML to CSV Console\XML to CSV Console\obj\Debug\XML to CSV Console.pdb
